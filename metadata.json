@@ -1,0 +1,6 @@
+{
+  "name": "DirectBank Validator",
+  "description": "An interactive routing lookup, ABA validation, and instant bank verification simulator demonstrating high-compliance account identity and transaction workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
